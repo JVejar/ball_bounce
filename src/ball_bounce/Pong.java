@@ -5,7 +5,7 @@ import javax.swing.JPanel;
 public class Pong extends JFrame{
 	
 	public Pong(){
-		setSize(500, 500);
+		setSize(507, 533);
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
